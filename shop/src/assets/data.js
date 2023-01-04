@@ -33,7 +33,7 @@ export default [
   },
   {
     id: 4,
-    title: "온워드: 단 하루의 기적",
+    title: "엔칸토: 마법의 세계",
     image:
       "https://raw.githubusercontent.com/wendy1126/Shop-image/main/img4.jpg",
     content: "판타지, 모험",
